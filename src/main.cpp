@@ -6,7 +6,7 @@
   and shows the results on a TFT screen. A single button short-press
   cycles between three screens; a long-press toggles the temperature
   unit between Celsius and Fahrenheit. The same data can also be
-  queried over the Serial Monitor.
+  queried over the Serial Monitor..
 */
 
 #include <Arduino.h>
