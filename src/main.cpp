@@ -1,4 +1,4 @@
-/*
+/* Orlando Q. De Jesus III
   Environmental Weather Station
   ------------------------------
   Reads temperature, humidity, pressure and light level from three
